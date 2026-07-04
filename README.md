@@ -12,9 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=Pavithra-S-hub&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pavithra-S-hub&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pavithra-S-hub&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Pavithra-S-hub&icon=0&color=11)](https://visitcount.itsvg.in)
 

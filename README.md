@@ -13,6 +13,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pavithra-S-hub&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pavithra-S-hub&icon=0&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
